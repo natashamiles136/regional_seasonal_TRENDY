@@ -1,0 +1,1 @@
+The main file to make the figures is combine_annual_diff_lt_with_annual.m.  It reads several .mat files, which were made using .m files also in this repository.  Those .m files use files from https:// github.com/bkabyrne/TopDown\_BottomUp\_CONUS.  This is not going to be easy, apologies! 
